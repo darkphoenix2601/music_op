@@ -21,7 +21,7 @@ def play_markup(videoid, user_id):
             ],
             [
                 InlineKeyboardButton(text=f"✨ SUPPORT", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton(text=f"✨ CHANNEL", url=f"https://t.me/{UPDATED_SUPPORT}"),
+                InlineKeyboardButton(text=f"✨ CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [      
                 InlineKeyboardButton(text="🗑 ᴄʟᴏsᴇ", callback_data=f'close2')
