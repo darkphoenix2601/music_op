@@ -20,7 +20,7 @@ def initialize():
     
 initialize()
 
-print("[INFO]: INITIALIZING DATABASE OF YUKKI SERVER")
+print("[INFO]: INITIALIZING DATABASE OF ASHU SERVER")
 MONGODB_CLI = MongoClient(MONGO_DB_URI)
 db = MONGODB_CLI.wbb
 SUDOERS = SUDO_USERS
@@ -38,7 +38,7 @@ async def load_sudoers():
                 {"sudo": "sudo"}, {"$set": {"sudoers": sudoers}}, upsert=True
             )
     SUDOERS = (SUDOERS + sudoers) if sudoers else SUDOERS
-    print("[INFO]: LOADED SUDO USERS OF YUKKI")
+    print("[INFO]: LOADED SUDO USERS OF M V PLAYER")
 loop = asyncio.get_event_loop()
 loop.run_until_complete(load_sudoers())
 Music_START_TIME = time.time()
@@ -55,7 +55,7 @@ ASSUSERNAME = ""
 ASSMENTION = ""
 print("[INFO]: INITIALIZING BOT CLIENTS")
 app = Client(
-    'YukkiBot',
+    'MVPLAYERBot',
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
