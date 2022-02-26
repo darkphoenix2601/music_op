@@ -847,7 +847,7 @@ async def cbgroupdel(_,CallbackQuery):
     await CallbackQuery.answer()
     _playlist = await get_note_names(CallbackQuery.message.chat.id)                                    
     if not _playlist:
-        return await CallbackQuery.message.reply_text("❌ Group has no Playlist on Yukki's Server")
+        return await CallbackQuery.message.reply_text("❌ Group has no Playlist on ASHU's Server")
     else:
         titlex = []
         for note in _playlist:
@@ -861,7 +861,7 @@ async def delplcb(_,CallbackQuery):
     await CallbackQuery.message.delete() 
     _playlist = await get_note_names(CallbackQuery.from_user.id)                                    
     if not _playlist:
-        return await CallbackQuery.message.reply_text("❌ You have no Playlist on Yukki's Server")
+        return await CallbackQuery.message.reply_text("❌ You have no Playlist on ASHU's Server")
     else:
         titlex = []
         for note in _playlist:
