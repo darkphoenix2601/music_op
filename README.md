@@ -1,7 +1,14 @@
+# Professor MUSIC
+<h2 align="centre"> Professor vc player🔥</h2>
+
+### M V PLAYER IS AN UPDATED MODIFIED MUSIC BOT FOR TELEGRAM......
+
+<p align="center"><a href="https://t.me/Professor_Ashu"><img src="https://telegra.ph/file/3d8d0ef5d0e0818b30b82.jpg" ></a></p>
+<p align="center">
+    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 
-
-<h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
+<h3>REQUIRMENTS 📝</h3>
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
@@ -10,41 +17,44 @@
 
 🧪 ɢᴇᴛ SESSION_NAME ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[@venomstring_bot](https://t.me/venomstring_bot)
+[@professor_string_bot](https://t.me/Get_String_bot)
+[Repl](https://replit.com/@Darkphoenix2601/Pyrogram-String-Session) #choose p
 
 
 
 
-## ᴄᴏᴍᴍᴀɴᴅꜱ 
+## commands 
 
-[CLICK HERE](https://t.me/V3N0M_0P/40)
+[CLICK HERE](https://t.me/Miss_AkshiV1_Updates/9)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
 
-- **ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛꜱ!** (ꜱᴜᴘᴘᴏʀᴛꜱ ᴍᴜʟᴛɪᴘʟᴇ ɢʀᴏᴜᴘꜱ)
-- **ꜱᴜᴘᴘᴏʀᴛꜱ Qᴜᴇᴜᴇꜱ!**
-- **ᴄᴏɴᴛʀᴏʟ ʙʏ ʙᴜᴛᴛᴏɴꜱ ᴏʀ ᴄᴏᴍᴍᴀɴᴅꜱ**
-- **ꜱᴇᴀʀᴄʜ ꜰᴏʀ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏꜱ ɪɴʟɪɴᴇ!**
-- **ᴅᴏᴡɴʟᴏᴀᴅ ʏᴛ ꜱᴏɴɢꜱ ʙʏ ɪᴛ'ꜱ ɴᴀᴍᴇ!**
-- **ᴅᴏᴡɴʟᴏᴀᴅ ʏᴛ ᴠɪᴅᴇᴏꜱ ʙʏ ɪᴛ'ꜱ ɴᴀᴍᴇ!**
-- **ᴀꜱꜱɪꜱᴛᴀɴᴛ ʟɪᴋᴇ ᴜꜱᴇʀʙᴏᴛ**
-- **ɢᴇᴛ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʟɪɴᴋ!** (ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘꜱ ᴏɴʟʏ )
-- **ɢᴇᴛ ʟʏʀɪᴄꜱ ᴏꜰ ʏᴏᴜʀ ꜱᴏɴɢ!**
-- **ʙᴀɴ / ᴜɴʙᴀɴ ᴜꜱᴇʀꜱ ᴀɴᴅ ᴄʜᴇᴄᴋ ᴜꜱᴇʀ ꜱᴛᴀᴛᴜꜱ.**
-- **ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴍᴇꜱꜱᴀɢᴇꜱ**
-- **ᴀɪ**
-- **ᴄᴏᴏʟ ꜱᴛᴀʀᴛꜱ ᴘʟᴜɴɢɪɴꜱ**
-- **ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ ʙᴏᴛ ᴇᴀꜱɪʟʏ**
+-Guys our new music bot commands and somewhat details 
 
-## 🔎 ꜱᴜᴘᴘᴏʀᴛ ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ
+-play music in telegram group voice chats! (support multiple groups)
+-support queues 
+-control by buttons or commands
+-search for youtube inline 
+-download yt songs by its name
+-assistant like userbot
+-get voice chat link (public groups only)
+-get lyrics of your song!
+-join and leave user and check user status
+-broadcast messages 
+-ai
+-cool starts plugins
+-update bot easily
+
+## 🔎 support inline search
 
 ### Deploy To Railway
 
+[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/darkphoenix2601/music_op&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,LOG_GROUP_ID,MONGO_DB_URI)
 
 
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/V3NOM_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/V3N0M_0P"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Miss_AkshiV1_Support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Professor_Ashu"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
