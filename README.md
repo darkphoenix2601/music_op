@@ -16,8 +16,10 @@
 
 
 🧪 ɢᴇᴛ SESSION_NAME ꜰʀᴏᴍ ʜᴇʀᴇ:
-
+## bot
 [@professor_string_bot](https://t.me/Get_String_bot)
+
+## repl
 [Repl](https://replit.com/@Darkphoenix2601/Pyrogram-String-Session) #choose p
 
 
@@ -28,7 +30,7 @@
 [CLICK HERE](https://t.me/Miss_AkshiV1_Updates/9)
 
 
-## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
+## FEATURES WITH AI🔥️
 
 -Guys our new music bot commands and somewhat details 
 
