@@ -1,7 +1,7 @@
 # Professor MUSIC
 <h2 align="centre"> Professor vc player🔥</h2>
 
-### M V PLAYER IS AN UPDATED MODIFIED MUSIC BOT FOR TELEGRAM......
+### M V PLAYER IS AN UPDATED MODIFIED MUSIC STREAMER FOR TELEGRAM......
 
 <p align="center"><a href="https://t.me/Professor_Ashu"><img src="https://telegra.ph/file/3d8d0ef5d0e0818b30b82.jpg" ></a></p>
 <p align="center">
@@ -32,14 +32,14 @@
 
 ## FEATURES WITH AI🔥️
 
--Guys our new music bot commands and somewhat details 
+-Guys our new music streamer commands and somewhat details 
 
 -play music in telegram group voice chats! (support multiple groups)
 -support queues 
 -control by buttons or commands
 -search for youtube inline 
 -download yt songs by its name
--assistant like userbot
+-assistant like ai
 -get voice chat link (public groups only)
 -get lyrics of your song!
 -join and leave user and check user status
