@@ -1,0 +1,58 @@
+{
+    "name": "Darkphoenix Music",
+    "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+    "keywords": ["music", "voicechat", "telegram"],
+    "repository": "https://github.com/darkphoenix2601/music_op",
+    "stack": "container",
+    "env": {
+      "SESSION_NAME": {
+        "description": "Pyrogram session string",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "A bot token from @BotFather",
+        "required": true
+      },
+      "MONGO_DB_URI": {
+        "description": "Your mongodb .",
+        "required": true,
+        "value": "mongodb+srv://music:music@cluster0.sh6h4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+      },
+      "API_ID": {
+        "description": "App ID from my.telegram.org/apps",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "App hash from my.telegram.org/apps",
+        "required": true
+      },
+      "SUDO_USERS": {
+        "description": "List of user IDs counted as admin everywhere (separated by space).",
+        "required": true
+      },
+      "DURATION_LIMIT": {
+        "description": "Max audio duration limit for downloads (minutes).",
+        "required": true,
+        "value": "10"
+      },
+      "UPDATES_CHANNEL": {
+        "description": "UPDATES CHANNEL",
+        "required": true,
+        "value": "Professor_AShu"
+        },
+    "GROUP_SUPPORT": {
+      "description": "SUPPORT GROUP",
+      "required": true,
+      "value": "M_V_PLAYER_LOGS"
+        },
+    "ASS_ID": {
+      "description": "Assistant id in integer .",
+      "required": true,
+      "value": "845745632"
+    
+    
+    
+      }
+    }
+  }
+  
